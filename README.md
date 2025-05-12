@@ -1,0 +1,2 @@
+# mails-preview
+preview emails
